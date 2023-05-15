@@ -25,7 +25,7 @@
             <div class="col-md-3">
             <div class="col-md-3">
                 <div class="card" style="width: 18rem;">
-                    <a href="https://www.ifms.edu.br"><img src="./arquivos/imagens/marcaifms.png" class="card-img-top" alt="IF"></a>
+                    <a href="https://www.ifms.edu.br"><img src="./arquivos/imagens/marcaifms.png" class="card-img-top" alt="Página inicial do site do IFMS campus Corumbá"></a>
                     <div class="card-body">
                         <h5 class="card-title">Estudante IFMS</h5>
                         <p class="card-text">
@@ -41,13 +41,13 @@
                 <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active" data-bs-interval="2000">
-                            <img src="./arquivos/imagens/ifms1.png" class="d-block w-100" alt="IF">
+                            <img src="./arquivos/imagens/ifms1.png" class="d-block w-100" alt="Foto de 6 alunas durante o intervalo">
                         </div>
                         <div class="carousel-item" data-bs-interval="2000">
-                            <img src="./arquivos/imagens/ifms2.jpeg" class="d-block w-100" alt="IF">
+                            <img src="./arquivos/imagens/ifms2.jpeg" class="d-block w-100" alt="Reunião de Pais e mestres">
                         </div>
                         <div class="carousel-item">
-                            <img src="./arquivos/imagens/ifms3.jpeg" class="d-block w-100" alt="IF">
+                            <img src="./arquivos/imagens/ifms3.jpeg" class="d-block w-100" alt="Servidores durante reunião tomando nota">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
@@ -64,7 +64,7 @@
             </div>
             <div class="col-md-3">
                 <div class="card" style="width: 18rem;">
-                    <a href="https://ead.ifms.edu.br/"><img src="./arquivos/imagens/moodle1.webp" class="card-img-top" alt="MOODLE"></a>   
+                    <a href="https://ead.ifms.edu.br/"><img src="./arquivos/imagens/moodle1.webp" class="card-img-top" alt="Software de apoio à aprendizado"></a>   
                     <div class="card-body">
                         <h5 class="card-title">Moodle</h5>
                         <p class="card-text">

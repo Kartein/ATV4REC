@@ -32,8 +32,8 @@
                 $resultado = $conexao->query($sql);
                 if($resultado->rowCount() > 0){
                     ?>
-                    <table class="table" summary="Apresenta os valores dos icones preenchidos">
-                    <caption>Icones preenchidos</caption>>
+                    <table class="table" summary="Apresenta as areas cadastrados no banco de dados">
+                    <caption>Tabela de Area</caption>>
                     <thead>
                         <tr>
                         <th scope="col">#</th>

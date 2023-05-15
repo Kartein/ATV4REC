@@ -58,7 +58,7 @@
     </div>
     <div class="row g-0 bg-body-secondary position-relative">
         <div class="col-md-6 mb-md-0 p-md-4">
-            <img src="../../arquivos/imagens/ENC.png" class="w-100" alt="IF">
+            <img src="../../arquivos/imagens/ENC.png" class="w-100" alt="Logotipo do edital Elas na Ciência">
         </div>
     <div class="col-md-6 p-4 ps-md-0">
         <h5 class="mt-0">Elas na Ciência IFMS</h5>

@@ -32,8 +32,8 @@
                 $resultado = $conexao->query($sql);
                 if($resultado->rowCount() > 0){
                     ?>
-                    <table class="table" summary="Apresenta os valores dos icones preenchidos">
-                    <caption>Icones preenchidos</caption>>
+                    <table class="table" summary="Apresenta os campus cadastrados no banco de dados">
+                    <caption>Tabela de Campus</caption>>
                     <thead>
                         <tr>
                         <th scope="col">#</th>

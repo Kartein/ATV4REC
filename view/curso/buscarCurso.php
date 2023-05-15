@@ -34,7 +34,8 @@
                 $resultado = $conexao->query($sql);
                 if($resultado->rowCount() > 0){
                     ?>
-                    <table class="table">
+                    <table class="table" summary="Apresenta os valores dos icones preenchidos">
+                    <caption>Icones preenchidos</caption>>
                     <thead>
                         <tr>
                         <th scope="col">#</th>
